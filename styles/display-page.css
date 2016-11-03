@@ -1,0 +1,518 @@
+.bluebox {
+	width:300px;
+	height:300px;
+	background-color: blue;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/spacecat.png);
+	background-repeat: no-repeat;
+	background-size:cover;
+	}
+
+.redbox {
+	width:300px;
+	height:300px;
+	background-color: red;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/icon.png);
+	background-repeat: no-repeat;
+	background-size:cover;
+	
+	}
+
+	.yellowbox {
+	width:300px;
+	height:300px;
+	background-color: yellow;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/nebula1.png);
+	}
+
+	.greenbox {
+	width:300px;
+	height:300px;
+	background-color: green;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/nebula2.png);
+	}
+
+		.purplebox {
+	width:300px;
+	height:300px;
+	background-color: purple;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/nebula3.png);
+	}
+	.pinkbox {
+	width:300px;
+	height:300px;
+	background-color: pink;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/nebula4.png);
+	}
+
+		.blackbox {
+	width:300px;
+	height:300px;
+	background-color: black;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/spacedog.png);
+	background-repeat: no-repeat;
+	background-size:cover;
+	}
+
+p {
+	text-align: center;
+	clear:left;
+}
+
+.container {
+	width:70%;
+	margin:auto;
+}
+
+
+.containercard {
+	width:306px;
+	height: 410px;
+	margin:auto;
+	margin-top: 20px;
+	margin-right: 20px;
+border-style:solid;
+border-radius: 25px;
+background-color: brown;
+
+
+
+}
+
+.name{
+width:300px;
+height:25px;
+text-align: bottom left;
+font-weight:bold;
+  border-bottom-style: solid;
+ background-color: pink;
+ margin:0px;
+ border-radius: 25px 25px 0px 0px;
+;
+
+}
+
+.image{
+	width:300px;
+height:200px;
+background-image: url(https://static1.squarespace.com/static/5671dc294bf11835678d6eaa/t/5672efdd1115e0e8174ad653/1450373091678/);
+background-size:cover;
+background-color: pink;
+
+
+}
+
+.type{
+	width:300px;
+height:25px;
+text-align: left;
+font-weight:bold;
+ border-bottom-style: solid;
+  border-top-style: solid;
+  background-color: pink;
+   margin:0px;
+
+
+}
+
+.description{
+	width:300px;
+height:70px;
+text-align: left;
+float: left;
+background-color: pink;
+ margin:0px;
+
+}
+
+.stuff{
+	width:300px;
+height:83px;
+text-align: left;
+font-style: italic;
+border-radius: 0px 0px 25px 25px;
+background-color: pink;
+ padding-top:20px;
+	
+}
+
+
+.containercard1 {
+	width:306px;
+	height: 410px;
+	margin:auto;
+	margin-top: 20px;
+border-style:solid;
+border-radius: 25px;
+background-color: brown;
+margin-right: 20px;
+
+
+
+}
+
+.name1{
+width:300px;
+height:25px;
+text-align: bottom left;
+font-weight:bold;
+  border-bottom-style: solid;
+ background-color: pink;
+ margin:0px;
+ border-radius: 25px 25px 0px 0px;
+;
+
+}
+
+.image1{
+	width:300px;
+height:200px;
+background-image: url(http://orig05.deviantart.net/6795/f/2012/159/6/1/617b2aa1f34fd705ee7835e46e4bb7ad-d52q3ij.jpg);
+background-size:cover;
+background-color: pink;
+
+
+}
+
+.type1{
+	width:300px;
+height:25px;
+text-align: left;
+font-weight:bold;
+ border-bottom-style: solid;
+  border-top-style: solid;
+  background-color: pink;
+   margin:0px;
+
+
+}
+
+.description1{
+	width:300px;
+height:40px;
+text-align: left;
+float: left;
+background-color: pink;
+ margin:0px;
+
+}
+
+.stuff1{
+	width:300px;
+height:113px;
+text-align: left;
+font-style: italic;
+border-radius: 0px 0px 25px 25px;
+background-color: pink;
+ padding-top:20px;
+	
+}
+
+.containercard2 {
+	width:306px;
+	height: 410px;
+	margin:auto;
+	margin-top: 20px;
+border-style:solid;
+border-radius: 25px;
+background-color: brown;
+margin-right: 20px;
+
+
+
+}
+
+.name2{
+width:300px;
+height:25px;
+text-align: bottom left;
+font-weight:bold;
+  border-bottom-style: solid;
+ background-color: pink;
+ margin:0px;
+ border-radius: 25px 25px 0px 0px;
+;
+
+}
+
+.image2{
+	width:300px;
+height:200px;
+background-image: url(https://s-media-cache-ak0.pinimg.com/736x/7d/99/76/7d9976601a4a90c274e69414c27197e0.jpg);
+background-size:cover;
+background-color: pink;
+
+
+}
+
+.type2{
+	width:300px;
+height:25px;
+text-align: left;
+font-weight:bold;
+ border-bottom-style: solid;
+  border-top-style: solid;
+  background-color: pink;
+   margin:0px;
+
+
+}
+
+.description2{
+	width:300px;
+height:80px;
+text-align: left;
+float: left;
+background-color: pink;
+ margin:0px;
+ font-style: italic;
+
+}
+
+.stuff2{
+	width:300px;
+height:73px;
+text-align: left;
+
+border-radius: 0px 0px 25px 25px;
+background-color: pink;
+ padding-top:20px;
+	
+}
+
+
+.containercard3 {
+	width:306px;
+	height: 410px;
+	margin:auto;
+	margin-top: 20px;
+border-style:solid;
+border-radius: 25px;
+background-color: brown;
+margin-right: 20px;
+
+
+
+}
+
+.name3{
+width:300px;
+height:25px;
+text-align: bottom left;
+font-weight:bold;
+  border-bottom-style: solid;
+ background-color: pink;
+ margin:0px;
+ border-radius: 25px 25px 0px 0px;
+;
+
+}
+
+.image3{
+	width:300px;
+height:200px;
+background-image: url(http://i290.photobucket.com/albums/ll249/zeichen95/mtg/abyssal-persecutor-1.jpg);
+background-size:cover;
+background-color: pink;
+background-position: center;
+
+
+}
+
+.type3{
+	width:300px;
+height:25px;
+text-align: left;
+font-weight:bold;
+ border-bottom-style: solid;
+  border-top-style: solid;
+  background-color: pink;
+   margin:0px;
+
+
+}
+
+.description3{
+	width:300px;
+height:80px;
+text-align: left;
+float: left;
+background-color: pink;
+ margin:0px;
+ 
+
+}
+
+.stuff3{
+	width:300px;
+height:73px;
+text-align: left;
+
+border-radius: 0px 0px 25px 25px;
+background-color: pink;
+ padding-top:20px;
+	font-style: italic;
+}
+
+.containercard4 {
+	width:306px;
+	height: 410px;
+	margin:auto;
+	margin-top: 20px;
+border-style:solid;
+border-radius: 25px;
+background-color: brown;
+margin-right: 20px;
+
+
+
+}
+
+.name4{
+width:300px;
+height:25px;
+text-align: bottom left;
+font-weight:bold;
+  border-bottom-style: solid;
+ background-color: pink;
+ margin:0px;
+ border-radius: 25px 25px 0px 0px;
+;
+
+}
+
+.image4{
+	width:300px;
+height:200px;
+background-image: url(http://www.wizards.com/magic/images/cardart/SHM/Seedcradle_Witch_640.jpg);
+background-size:cover;
+background-color: pink;
+background-position: center;
+
+
+}
+
+.type4{
+	width:300px;
+height:25px;
+text-align: left;
+font-weight:bold;
+ border-bottom-style: solid;
+  border-top-style: solid;
+  background-color: pink;
+   margin:0px;
+
+
+}
+
+.description4{
+	width:300px;
+height:30px;
+text-align: left;
+float: left;
+background-color: pink;
+ margin:0px;
+ 
+
+}
+
+.stuff4{
+	width:300px;
+height:123px;
+text-align: left;
+
+border-radius: 0px 0px 25px 25px;
+background-color: pink;
+ padding-top:20px;
+	font-style: italic;
+}
+
+.containercard5 {
+	width:306px;
+	height: 410px;
+	margin:auto;
+	margin-top: 20px;
+border-style:solid;
+border-radius: 25px;
+background-color: brown;
+margin-right: 20px;
+
+
+
+}
+
+.name5{
+width:300px;
+height:25px;
+text-align: bottom left;
+font-weight:bold;
+  border-bottom-style: solid;
+ background-color: pink;
+ margin:0px;
+ border-radius: 25px 25px 0px 0px;
+;
+
+}
+
+.image5{
+	width:300px;
+height:200px;
+background-image: url(http://orig14.deviantart.net/1a76/f/2012/256/7/e/black_cat__altered_magic_the_gathering_card_by_mcomby-d5em250.jpg);
+background-size:cover;
+background-color: pink;
+
+
+
+}
+
+.type5{
+	width:300px;
+height:25px;
+text-align: left;
+font-weight:bold;
+ border-bottom-style: solid;
+  border-top-style: solid;
+  background-color: pink;
+   margin:0px;
+
+
+}
+
+.description5{
+	width:300px;
+height:30px;
+text-align: left;
+float: left;
+background-color: pink;
+ margin:0px;
+ 
+
+}
+
+.stuff5{
+	width:300px;
+height:123px;
+text-align: left;
+
+border-radius: 0px 0px 25px 25px;
+background-color: pink;
+ padding-top:20px;
+	font-style: italic;
+}
+
+.float{
+	float:left;
+}
